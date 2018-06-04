@@ -8,6 +8,13 @@
   "private": false,
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.3",
     "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.3.1"
   }
 }
