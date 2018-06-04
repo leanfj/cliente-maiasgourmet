@@ -1,0 +1,13 @@
+{
+  "name": "cliente-maria",
+  "version": "1.0.0",
+  "description": "Website para desenvolvido para cliente Maria",
+  "main": "index.html",
+  "author": "Leandro Ferreira",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
